@@ -1,4 +1,4 @@
-<center># CIS245_Public_Week9</center>
+# CIS245_Public_Week9
 ### This is the public repo for my week 9 assignment. 
 
 * I cloned the repo via SSH to my local machine, made my own branch separate from "masster" as a best practice, made edits, then saved the edits as a separate file. 
